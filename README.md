@@ -1,4 +1,4 @@
-# main
+# arzu
 
 A new Flutter project.
 
